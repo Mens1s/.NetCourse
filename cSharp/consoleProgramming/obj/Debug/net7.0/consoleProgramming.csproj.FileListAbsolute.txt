@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/bin/Debug/net7.0/consoleProgramming
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/bin/Debug/net7.0/consoleProgramming.deps.json
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/bin/Debug/net7.0/consoleProgramming.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/bin/Debug/net7.0/consoleProgramming.dll
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/bin/Debug/net7.0/consoleProgramming.pdb
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.csproj.AssemblyReference.cache
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.dll
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/refint/consoleProgramming.dll
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.pdb
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/consoleProgramming.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/DotNetCourse/cSharp/consoleProgramming/obj/Debug/net7.0/ref/consoleProgramming.dll
